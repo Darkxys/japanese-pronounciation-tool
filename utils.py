@@ -104,8 +104,7 @@ def segment_speech(
             segmented = sk.segment()
 
         basenames = list(segmented.keys())
-        # We copied only one wav file and its transcript,
-        # so we should only get one result.
+        # We copied only one wav file and its transcript
         assert len(basenames) == 1, basenames
         # Add begin_ts such that the timestamps correspond to the audio before cropping
         result = [
