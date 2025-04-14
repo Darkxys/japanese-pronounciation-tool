@@ -13,3 +13,6 @@ In practice, users can select sentences (sourced from Forvo), record their own a
 In this example, I attempted to pronounce いつがいいか、わかりません。 The image below shows a visual comparison of my pitch accent pattern to that of a native speaker.
 ![Pronounciation example #1](images/いつがいいか、わかりません。.png)
 The analysis reveals that my recording is 63% similar to the teacher's, meaning that my pronunciation is acceptable but still has room for improvement, which is clearly visible in the pitch accent graph.
+
+## Next Steps
+I currently use `Anki` to learn Japanese and plan to develop a plugin that evaluates my pronunciation directly within the program instead of requiring a separate application.
